@@ -1,0 +1,5 @@
+? Que es una cola de prioridad 
+
+https://www.geeksforgeeks.org/priority-queue-set-1-introduction/
+
+https://www.youtube.com/watch?v=JuR0oRMNwFM representacion grafica
